@@ -1,16 +1,15 @@
 # Readme Generator
+https://github.com/enceps/README-Generator/edit/main/README.md
     
-    https://github.com/enceps/README-Generator/edit/main/README.md
+Link to Video : https://watch.screencastify.com/v/7UF6i6eaVtK5Z3uz3M50
+
+https://github.com/enceps/README-Generator/blob/main/utils/readme-capture.PNG?raw=true
     
-    Link to Video : https://watch.screencastify.com/v/7UF6i6eaVtK5Z3uz3M50
+This app uses node.js to promt user questions in the terminal and generator a README for the USER
 
-    https://github.com/enceps/README-Generator/blob/main/utils/readme-capture.PNG?raw=true
-    
-    This app uses node.js to promt user questions in the terminal and generator a README for the USER
+## Instructions
 
-    ## Instructions
-
-    Download the files and initial node js and run node index in the terminal in the directory containing index.js to start the app
+Download the files and initial node js and run node index in the terminal in the directory containing index.js to start the app
 
 
 USER STORY
