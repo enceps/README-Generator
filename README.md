@@ -12,7 +12,7 @@ This app uses node.js to promt user questions in the terminal and generator a RE
 Download the files and initial node js and run node index in the terminal in the directory containing index.js to start the app
 
 
-USER STORY
+#USER STORY
 
 GIVEN a command-line application that accepts user input
 
